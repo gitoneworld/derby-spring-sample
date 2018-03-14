@@ -9,6 +9,8 @@ Template for a Spring 4 MVC + Embedded Database examples, using HSQLDB, H2 and D
 * H2 1.4.187
 * Derby 10.11.1.1
 
+> mvn clean install
+
 ###2. To Run this project locally
 ```shell
 $ git clone https://github.com/mkyong/spring-embedded-database
